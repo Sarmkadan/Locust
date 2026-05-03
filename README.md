@@ -75,4 +75,4 @@ Open source licensed under the MIT license (see _LICENSE_ file for details).
 
 ---
 
-> Built by [Vladyslav Zaiets](https://sarmkadan.com) - CTO at [Red Rocket Software](https://redrocket.software)
+> Built by [Vladyslav Zaiets](https://sarmkadan.com) - CTO & Software Architect
